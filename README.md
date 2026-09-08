@@ -1,3 +1,3 @@
-# DSA-Lab-1
+#DSA-Lab1
+conflict solved
 
-I'm editing this from my local machine
