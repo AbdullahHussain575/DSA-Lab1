@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.pdb
+/build/
+/Debug/
+/Release/
+
+# IDE metadata (keep .sln and .vcxproj if instructed to submit them)
+.vscode/
+.idea/
